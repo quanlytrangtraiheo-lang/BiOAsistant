@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý đào tạo Online - ATSH",
+  "description": "Hệ thống quản lý đào tạo trực tuyến quy trình An toàn Sinh học (ATSH) chăn nuôi: Quản lý tài liệu PDF/Docx, bài giảng video & slide tương tác, kiểm tra đánh giá, báo cáo nhân sự và sơ đồ tổ chức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
